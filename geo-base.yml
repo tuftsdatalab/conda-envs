@@ -2,7 +2,6 @@ name: geo
 channels:
   - conda-forge
 dependencies:
-  - bokeh
   - cartopy
   - contextily
   - folium
@@ -20,6 +19,7 @@ dependencies:
   - numpy
   - osmnx
   - pandas
+  - plotly
   - pyppeteer
   - pyproj
   - pysal
